@@ -5,4 +5,9 @@ h1{
 p{
     color:red;
     text-shadow: 5px 10px 5px;
+    transition: 1s;
+}
+p:hover{
+    color: green;
+    transition: 1s;
 }
